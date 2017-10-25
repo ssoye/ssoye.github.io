@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: database
 title: Database
 excerpt: ""
 comments: false
